@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Monzon-Elias
 - 👀 I’m interested in Full-Stack Development
-- 🌱 I’m currently learning React, Nextjs, Mongo, AWS
+- 🌱 I’m currently building in React, React Native, Render, Mongo, AWS
 - 💞️ I’m working as a Full-Stack Developer
 - 📫 How to reach me darioson@gmail.com
 
